@@ -1,0 +1,13 @@
+C:\Users\Satya Maddila\source\repos\DelegateEX\obj\Debug\netcoreapp3.1\DelegateEX.csprojAssemblyReference.cache
+C:\Users\Satya Maddila\source\repos\DelegateEX\obj\Debug\netcoreapp3.1\DelegateEX.AssemblyInfoInputs.cache
+C:\Users\Satya Maddila\source\repos\DelegateEX\obj\Debug\netcoreapp3.1\DelegateEX.AssemblyInfo.cs
+C:\Users\Satya Maddila\source\repos\DelegateEX\obj\Debug\netcoreapp3.1\DelegateEX.csproj.CoreCompileInputs.cache
+C:\Users\Satya Maddila\source\repos\DelegateEX\bin\Debug\netcoreapp3.1\DelegateEX.exe
+C:\Users\Satya Maddila\source\repos\DelegateEX\bin\Debug\netcoreapp3.1\DelegateEX.deps.json
+C:\Users\Satya Maddila\source\repos\DelegateEX\bin\Debug\netcoreapp3.1\DelegateEX.runtimeconfig.json
+C:\Users\Satya Maddila\source\repos\DelegateEX\bin\Debug\netcoreapp3.1\DelegateEX.runtimeconfig.dev.json
+C:\Users\Satya Maddila\source\repos\DelegateEX\bin\Debug\netcoreapp3.1\DelegateEX.dll
+C:\Users\Satya Maddila\source\repos\DelegateEX\bin\Debug\netcoreapp3.1\DelegateEX.pdb
+C:\Users\Satya Maddila\source\repos\DelegateEX\obj\Debug\netcoreapp3.1\DelegateEX.dll
+C:\Users\Satya Maddila\source\repos\DelegateEX\obj\Debug\netcoreapp3.1\DelegateEX.pdb
+C:\Users\Satya Maddila\source\repos\DelegateEX\obj\Debug\netcoreapp3.1\DelegateEX.genruntimeconfig.cache
